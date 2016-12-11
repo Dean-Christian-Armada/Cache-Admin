@@ -1,0 +1,9 @@
+Django==1.10.3
+django-memcache-admin==0.2.1
+django-redis==4.6.0
+django-redis-cache==1.7.1
+django-simple-cache-admin==0.1.2
+python-memcached==1.58
+redis==2.10.5
+six==1.10.0
+wheel==0.24.0
